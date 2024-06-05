@@ -1,4 +1,4 @@
-package codingtest.app.day06;
+package codingtest.app.day;
 
 /**
  * 정수 n이 매개변수로 주어질 때,

@@ -1,4 +1,4 @@
-package codingtest.app.day06;
+package codingtest.app.day;
 
 // 문자열 my_string과 이차원 정수 배열 queries가 매개변수로 주어집니다.
 // queries의 원소는 [s, e] 형태로, my_string의 인덱스 s부터 인덱스 e까지를 뒤집으라는 의미입니다.

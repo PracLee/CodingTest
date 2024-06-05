@@ -1,4 +1,4 @@
-package codingtest.app.day06;
+package codingtest.app.day;
 
 import java.util.Arrays;
 

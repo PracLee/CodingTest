@@ -1,4 +1,4 @@
-package codingtest.app.day06;
+package codingtest.app.day;
 
 public class Day06_1 {
     public int[] solution(int[] num_list) {

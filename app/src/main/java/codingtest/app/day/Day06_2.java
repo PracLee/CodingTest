@@ -1,4 +1,4 @@
-package codingtest.app.day06;
+package codingtest.app.day;
 
 public class Day06_2 {
     public int solution(int n, String control) {

@@ -1,4 +1,4 @@
-package codingtest.app.day06;
+package codingtest.app.day;
 
 /**
  * 정수 num1, num2가 매개변수로 주어질 때,

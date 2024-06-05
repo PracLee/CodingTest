@@ -1,4 +1,4 @@
-package codingtest.app.day05;
+package codingtest.app.day;
 
 public class Day05_1 {
     public String solution(String code) {

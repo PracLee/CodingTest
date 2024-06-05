@@ -1,4 +1,4 @@
-package codingtest.app.day06;
+package codingtest.app.day;
 
 public class Day06_3 {
     public String solution(int[] numLog) {
